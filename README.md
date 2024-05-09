@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sohan Ahmed
 ####  Lrean Web Design
-![ Lrean Web Design]([https://drive.google.com/file/d/10eodwSzQ6DtV_KRHcvKL8n27oGFGJyKO/view?usp=drivesdk](https://github.com/SOHANdx/SOHANdx/blob/main/20240509_085737.jpg))
+![ Lrean Web Design](https://github.com/SOHANdx/SOHANdx/blob/main/20240509_085737.jpg))
 
 I'm Sohan Ahmed.I'm a web developer
 
